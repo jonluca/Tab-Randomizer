@@ -1,5 +1,5 @@
 ﻿/**
- * Registers the onclick handler for the Chrome Extension icon, injects the content script into a sandboxed chrome extension environment
+ * Randomly selects a tab and focuses on it
  */
 chrome.browserAction.onClicked.addListener(function (tab) {
   chrome.tabs.query({}, tabs =>{
