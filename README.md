@@ -1,20 +1,12 @@
-# Paste Enabler
+# Tab Randomizer
 
-Reenables certain features on webpages when you click the icon. These include:
-
-* Ability to paste content
-* Ability to copy content
-* Ability to cut content
-* Ability to right click content
-* Ability to autocomplete certain inputs
-* Ability to select text
-* Ability to drag and drop text to/from inputs
+Randomly selects a tab on click of the icon
 
 Deployed on the Chrome Web Store [here](https://chrome.google.com/webstore/detail/dhadehfniifbmemochpmbofcjckpdnnl/).
 
 ## Usage
 
-If you are unable to do any of the above on a site, click the icon and try again. You should be able to perform that action now. 
+Click the icon in the chrome bar and a random tab will be selected.
 
 # Credits
 

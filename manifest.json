@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "PasteEnabler",
-  "description": "Paste when you're not allowed, copy when you're not allowed!",
+  "name": "Tab Randomizer",
+  "description": "Randomly select an open tab!",
   "version": "0.2",
   "background": {
     "scripts": [
@@ -9,7 +9,8 @@
     ]
   },
   "permissions": [
-    "activeTab"
+    "activeTab",
+    "tabs"
   ],
   "browser_action": {
     "default_icon": "images/icon.png"
